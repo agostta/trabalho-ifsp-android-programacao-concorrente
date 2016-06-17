@@ -12,5 +12,6 @@
         <activity android:name=".MensagemHandlerActivity" />
         <activity android:name=".RunnableHandlerActivity" />
         <activity android:name=".RunOnUIThreadActivity" />
+        <activity android:name=".CadastroActivity" />
     </application>
 </manifest>
